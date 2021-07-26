@@ -1,0 +1,54 @@
+fips: FIPS county code
+state: state abbreviation
+county: county name
+pop_in_later_year: population in in pop_ref_later_year (usually 2017)
+pop_ref_later_year: the later reference year for population level
+pop_f: the female population
+pop_m: the male population
+pop_in_earlier_year: population in in pop_ref_earlier_year (usually 2000)
+pop_ref_earlier_year: the earlier reference year for population level
+median_age: median age
+median_age_f: median female age
+median_age_m: median male age
+median_house_inc_val_usd: median household income
+median_house_inc_yr: the year that median_house_inc_val_usd was measured
+median_house_inc_ref_val_usd: the median household income in median_house_inc_ref_yr
+median_house_inc_ref_yr: an earlier reference point for median household income (to determine growth rate)
+median_house_value_val_usd: the median house value
+median_house_value_yr: the year that median_house_value_val_usd was measured
+median_house_value_ref_yr: an earlier reference point for the median house value (to determine growth rate)
+median_house_value_ref_yr_val_usd: the median house value in median_house_value_ref_yr
+avg_household_size: average household size
+mar_coup_w_children: number of married couples with children
+cost_of_living_usd: cost of living index (100 is average)
+cost_of_living_yr: the year that cost_of_living_usd was measured
+poverty_pct: the percentage of residents living in poverty
+adult_obes_rate: adult obesity rate
+presch_obes_rate: preschooler obesity rate
+commute_minutes: average commute (in minutes)
+pop_per_sq_mi: population per square mile
+pop_percent_urban: percent of population which is urban
+unemp_rate: unemployment rate
+unemp_date: the year that unemp_rate was measured
+rent_1br_usd: median rent for 1 bedroom apartments
+rent_2br_usd: median rent for 2 bedroom apartments
+rent_3br_usd: median rent for 3 bedroom apartments
+avg_farm_size: average farm size (acres)
+avg_farm_sales_usd: average annual gross farm sales (USD)
+pct_farms_fam_op: percentage of farms which are family-operated
+avg_farm_mach_val_usd: the average total value of a farm's machinery
+birth_per_1000_int1: births per 1000 during the first birthrate interval
+births_from_yr_int1: the start year of the first birthrate interval
+births_from_yr_int2: the start year of the second birthrate interval
+birth_per_1000_int2: births per 1000 during the second birthrate interval
+births_to_yr_int1: the end year of the first birthrate interval
+births_to_yr_int2: the end year of the second birthrate interval
+pop_foreign_born: number of foreign-born residents
+land_area_km2: land area (in square km)
+land_area_mi2: land area (in square miles)
+water_area_km2: water area (in square km)
+water_area_mi2: water area (in square miles)
+total_area_km2: total area (in square km)
+total_area_mi2: total area (in square miles)
+latitude: latitude
+longitude: longitude
