@@ -1,12 +1,12 @@
 ## Files included
 
-alaska_counties.csv: boroughs of Alaska with their FIPS codes
-alaska_votes.csv: election data for Alaska boroughs
-df_citydata.csv: data scraped from city-data.com
-df_votes.csv: 2012 and 2016 election data, indexed by FIPS code
-df_weather.csv: weather info for the (center of) each county (by FIPS code) on election days 2012 & 2016
-votes\_by\_county\_2012_2016.csv: vote totals per county, broken down by DNC and GOP, 2012 and 2016
-weather-and-elections.ipynb: a Jupyter notebook containing the analysis and narrative.
+- alaska_counties.csv: boroughs of Alaska with their FIPS codes
+- alaska_votes.csv: election data for Alaska boroughs
+- df_citydata.csv: data scraped from city-data.com
+- df_votes.csv: 2012 and 2016 election data, indexed by FIPS code
+- df_weather.csv: weather info for the (center of) each county (by FIPS code) on election days 2012 & 2016
+- votes\_by\_county\_2012_2016.csv: vote totals per county, broken down by DNC and GOP, 2012 and 2016
+- weather-and-elections.ipynb: a Jupyter notebook containing the analysis and narrative.
 
 ## Background
 
